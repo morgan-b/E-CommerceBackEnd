@@ -4,6 +4,8 @@ const sequelize = require('../config/connection');
 
 class ProductTag extends Model {}
 
+//create product tag data model with id and product id through product model and category id through category model
+
 ProductTag.init(
   {
     id: {
