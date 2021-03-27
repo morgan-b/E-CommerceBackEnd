@@ -33,7 +33,14 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
+
 ## Mock-Up
+
+### Walkthrough Video:
+
+Your walkthrough video should also show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia Core.
+
+![demo video](https://drive.google.com/file/d/1UVvCBpGVu8zrC8L2J2UaOnLCRyRySHUW/view)
 
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia Core:
 
@@ -47,9 +54,7 @@ The following animation shows the application's POST, PUT, and DELETE routes for
 
 ![In Insomnia Core, the user tests “DELETE Category by ID,” “CREATE Category,” and “UPDATE Category.”](./Assets/13-orm-homework-demo-03.gif)
 
-### Walkthrough Video:
 
-Your walkthrough video should also show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia Core.
 
 ## Instructions
 
