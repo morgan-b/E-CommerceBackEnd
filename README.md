@@ -40,7 +40,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 Your walkthrough video should also show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia Core.
 
-![demo video](https://drive.google.com/file/d/1UVvCBpGVu8zrC8L2J2UaOnLCRyRySHUW/view)
+[demo video](https://drive.google.com/file/d/1UVvCBpGVu8zrC8L2J2UaOnLCRyRySHUW/view)
 
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia Core:
 
